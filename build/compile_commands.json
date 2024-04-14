@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Xlab/C-exercise/test_01/build",
+  "command": "D:\\VScode\\C-helper\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c D:\\Xlab\\C-exercise\\test_01\\src\\main.c",
+  "file": "D:/Xlab/C-exercise/test_01/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.obj"
+},
+{
+  "directory": "D:/Xlab/C-exercise/test_01/build",
+  "command": "D:\\VScode\\C-helper\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\print.obj -c D:\\Xlab\\C-exercise\\test_01\\src\\print.c",
+  "file": "D:/Xlab/C-exercise/test_01/src/print.c",
+  "output": "CMakeFiles/main.dir/src/print.obj"
+}
+]

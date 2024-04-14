@@ -1,0 +1,3 @@
+D:/Xlab/C-exercise/test_01/build/CMakeFiles/main.dir
+D:/Xlab/C-exercise/test_01/build/CMakeFiles/edit_cache.dir
+D:/Xlab/C-exercise/test_01/build/CMakeFiles/rebuild_cache.dir
